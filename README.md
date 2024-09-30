@@ -1,3 +1,3 @@
-# function_and_modules
+# FUNCTIONS AND MODULES
 
 Explains the significance of functions in Python, detailing how to create and call them, manage arguments, and return values, with practical examples like calculating a bill with a tip. It also covers the concept of variable scope, differentiating between local and global variables, and their impact on program behavior, such as tracking user sessions with global variables.Modules focuses on organizing code by importing built-in modules like math and random and demonstrates how to create custom modules for project structuring, including examples like generating random numbers or managing user profiles.
